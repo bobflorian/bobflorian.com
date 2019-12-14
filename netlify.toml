@@ -34,3 +34,4 @@ HUGO_ENABLEGITINFO = "true"
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+    Upgrade-Insecure-Requests = 1
