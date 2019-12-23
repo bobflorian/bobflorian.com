@@ -11,6 +11,8 @@ tags:
   - 2020
 ---
 
+woke up after sleeping for 13-14 hours! Got room service of Chinese Breakfast, scrambled eggs, bacon, and pork belly bbq breakfast for Aiden.  Multiple coffees!
+
 # Private Bangkok tour with our guide!
 
 #### temples
