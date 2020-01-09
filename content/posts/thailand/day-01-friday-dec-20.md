@@ -1,6 +1,6 @@
 ---
 title: "Day 01 Friday Dec 20"
-date: 2019-12-12T00:00:00-06:00
+date: 2019-12-20T00:00:00-06:00
 draft: true
 toc: false
 images:

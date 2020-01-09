@@ -1,6 +1,6 @@
 ---
-title: "Day 04 Tuesday Dec 25"
-date: 2019-12-13T23:46:54-06:00
+title: "Day 08 Tuesday Dec 28"
+date: 2019-12-13T00:00:00-06:00
 draft: true
 toc: false
 images:
