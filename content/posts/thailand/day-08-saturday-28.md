@@ -1,6 +1,6 @@
 ---
-title: "Day 08 Tuesday Dec 28"
-date: 2019-12-13T00:00:00-06:00
+title: "Thailand - Day 08 - Tuesday"
+date: 2019-12-28T00:00:00-06:00
 draft: true
 toc: false
 images:
@@ -13,7 +13,7 @@ tags:
 
 Today is a travel day to Chiang Mai
 
-We started off the day with the usuual Thai/English breakfast at the hotel buffet, which is good.  The coconut cakes are my favorite.
+We started off the day with the usuual Thai/English breakfast at the hotel buffet, which is good.  The mini coconut cakes are my favorite.
 
 We got in the car for a little bit, and then ended up quickly at a small villiage to learn about local pottery.  The usual person who made all of the pottery was there today, and she gave us a local pottery lesson to make a cuple things and paint some plates.  First we tried to paint some fish, lotus flower, and other things.  Aiden drew some nice ones, and then the villager glazed his plates for him.  THen she gave him some raw clay, and showed him how to make an Elephant!  It took a couple tries, but they got it, and he made his look nice.  She let him keep the one she made, and the one he made too for souveniers.  We then shopped in their shop for some things, and bought some gifts for ourselves and maybe others.
 
@@ -34,7 +34,7 @@ We're leaving tomrorow morning for 2 nights for a Homstay, and Eco Lodge, but we
 
 We've re-packed out backpacks so that they are the only think we need for the next 2 nights, since we're hiking from oen camp to the next in the mountains / jungle.
 
-It's strainge, there are signso on the road "watch for elephants" just like in the US where we have "deer crossings".
+It's strange, there are signs on the road "watch for elephants" just like in the US where we have "deer crossings".
 
 
 

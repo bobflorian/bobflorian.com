@@ -1,6 +1,6 @@
 ---
-title: "Day 07 Tuesday Dec 27"
-date: 2019-12-13T00:00:00-06:00
+title: "Thailand - Day 07 - Tuesday"
+date: 2019-12-27T00:00:00-06:00
 draft: true
 toc: false
 images:

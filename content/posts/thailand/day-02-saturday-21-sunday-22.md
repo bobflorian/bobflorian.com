@@ -1,5 +1,5 @@
 ---
-title: "Day 02 Sunday Dec 21"
+title: "Thailand - Day 02 Sunday"
 date: 2019-12-21T00:00:00-06:00
 draft: true
 toc: false
@@ -11,16 +11,13 @@ tags:
   - 2020
 ---
 
+Woke up at the airport, kind of, since sleeping here is hard... and indeed we've lost a day due to huge time difference and travel!
 
-# Day 2
+2 am flight from Doha to BKK
 
-Wake up at the airport - indeed; we've lost a day due to huge time difference and travel!
+Flight from Doha to Bangkok.  Due to seating selections I had to sit next to a young French girl on the plane who had no concept of personal space.  She kept elbowing me and putting her feet on my side!
 
-2 am flight from DOG to BKK
-
-Flight from Doha to Bangkok.  Due to seating I had to sit next to a your French girl on the plane who had no concept of personal space.  She kept elbowing me and putting her feet on my side!
-
-supposed to arrive at the airport, find our driver, and travel to the hotel.
+Supposed to arrive at the airport, find our driver, and travel to the hotel.
 
 BKK airport is a HOT MESS.  So many people everywhere withour regard for personal space.  Immigration is aweful.  The line was several thousand people long, and queuing is about what I expected with people just walking up to the front of the line.  At some point the Royal Police decided the line was getting too out of hand they started letting people go into the expedited priority lines that are usually for Thai Nationals.  We got selected "one time only, special pass for you!" by one of the officers.  Still felt like a mistake as the Officer processing things was NOT in a hury, and still took 30 miniutes to process about 20 people.  Once through our bags were just on the floor instead of on the carosel.  Oh well, what are we going to do about it.
 

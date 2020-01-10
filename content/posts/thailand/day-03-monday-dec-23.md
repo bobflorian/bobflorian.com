@@ -1,5 +1,5 @@
 ---
-title: "Day 03 Monday Dec 23"
+title: "Thailand - Day 03 - Monday"
 date: 2019-12-23T00:00:00-06:00
 draft: true
 toc: false
@@ -11,9 +11,14 @@ tags:
   - 2020
 ---
 
-woke up after sleeping for 13-14 hours! Got room service of Chinese Breakfast, scrambled eggs, bacon, and pork belly bbq breakfast for Aiden.  Multiple coffees!
+Woke up after sleeping for 13-14 hours! 
 
-# Private Bangkok tour with our guide!
+Got room service of Chinese Breakfast, scrambled eggs, bacon, and pork belly bbq breakfast for Aiden.  Multiple coffees!
 
-#### temples
+### Private Bangkok tour with our guide Eddie!
 
+#### Boat Rides
+
+#### Temples
+
+#### Flower Market
