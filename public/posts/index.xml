@@ -15,8 +15,9 @@
 			<pubDate>Fri, 13 Dec 2019 12:39:17 -0600</pubDate>
 			
 			<guid>https://bobflorian.com/posts/my-first-post/</guid>
-			<description></description>
-			<content type="html"><![CDATA[]]></content>
+			<description>test from phone</description>
+			<content type="html"><![CDATA[<p>test from phone</p>
+]]></content>
 		</item>
 		
 	</channel>
