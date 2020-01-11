@@ -1,5 +1,5 @@
 ---
-title: "Thailand - Day 05 - Tuesday"
+title: "Thailand - Day 05 - Wednesday"
 date: 2019-12-25T00:00:00-06:00
 draft: true
 toc: false
@@ -11,7 +11,7 @@ tags:
   - 2020
 ---
 
-# Day 5 - day two, and night two at teh hintok river camp at hellfire pass
+# Day 5 - day two, and night two at the hintok river camp at hellfire pass
 
 we woke up about 600 to the sounds of roosters in the neighborhood
 

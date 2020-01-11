@@ -1,5 +1,5 @@
 ---
-title: "Thailand - Day 04 - Monday"
+title: "Thailand - Day 04 - Tuesday"
 date: 2019-12-24T00:00:00-06:00
 draft: true
 toc: false
