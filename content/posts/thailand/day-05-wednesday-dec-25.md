@@ -13,7 +13,7 @@ tags:
 
 # Day 5 - day two, and night two at the hintok river camp at hellfire pass
 
-we woke up about 600 to the sounds of roosters in the neighborhood
+we woke up about 600 to the sounds of roosters in the neighborhood!
 
 got dressed and packed for the day of adventure
 

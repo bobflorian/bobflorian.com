@@ -16,7 +16,7 @@ disqusShortname = "bobflorian"
   name = "Bob Florian"
 
 [taxonomies]
-  tag = "travel, food"
+  tag = "travel, food, tech"
   # Categories are disabled by default.
 
 [params]
