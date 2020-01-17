@@ -11,8 +11,9 @@ tags:
   - 2020
 ---
 
+Visited Karen Hill Tribe Village, bought coffee, took a hike to Watchirathan waterfall park in Doi Inthanon National Park.
 
-
+Cooking class in Chiang Mai for dinner
 
 
 

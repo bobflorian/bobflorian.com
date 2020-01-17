@@ -11,4 +11,6 @@ tags:
   - 2020
 ---
 
+Free day in Chiang Mai - we opt to sleep in, lounge at the pool until late afternoon.  
 
+Walk to the various night markets.  Get hangry, and eat at a local place in the market.  Buy some souvenirs.  Take a tuktuk back to the hotel.

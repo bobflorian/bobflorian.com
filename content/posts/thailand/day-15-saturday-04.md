@@ -11,4 +11,6 @@ tags:
   - 2020
 ---
 
-Home!
+
+
+Flight at 745am from Doha to Chicago.  I think we ended up taking off about 830
