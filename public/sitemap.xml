@@ -3,22 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bobflorian.com/</loc>
+    <loc>https://www.bobflorian.com/</loc>
+    <lastmod>2019-12-31T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/</loc>
+    <lastmod>2019-12-31T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-11-tuesday-31/</loc>
+    <lastmod>2019-12-31T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-09-sunday-29/</loc>
+    <lastmod>2019-12-29T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-06-thursday-dec-26/</loc>
+    <lastmod>2019-12-26T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-05-wednesday-dec-25/</loc>
+    <lastmod>2019-12-25T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-03-monday-dec-23/</loc>
+    <lastmod>2019-12-23T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-02-saturday-21-sunday-22/</loc>
+    <lastmod>2019-12-21T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/thailand/day-01-friday-dec-20/</loc>
+    <lastmod>2019-12-20T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bobflorian.com/posts/image-testing/</loc>
     <lastmod>2019-12-13T12:39:17-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bobflorian.com/posts/my-first-post/</loc>
+    <loc>https://www.bobflorian.com/posts/my-first-post/</loc>
     <lastmod>2019-12-13T12:39:17-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bobflorian.com/posts/</loc>
-    <lastmod>2019-12-13T12:39:17-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bobflorian.com/travel-food/</loc>
+    <loc>https://www.bobflorian.com/travel-food-tech/</loc>
   </url>
   
 </urlset>
