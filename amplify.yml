@@ -1,0 +1,25 @@
+version: 0.1
+frontend:
+  phases:
+    build:
+      commands:
+        - hugo
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths: []
+  customHeaders:
+  - pattern: '**/*'
+    headers:
+      - key: 'X-Frame-Options'
+        value: 'SAMEORIGIN'
+      - key: 'X-XSS-Protection'
+        value: '1; mode=block'
+      - key: 'X-Content-Type-Options'
+        value: 'nosniff'
+      - key: 'Content-Security-Policy'
+        value: 'default-src self'
+      - key: 'Report-To'
+        value: '{"group":"default","max_age":31536000,"endpoints":[{"url":"https://6f84f0af2098de6dec0a9f3212ba712c.report-uri.com/a/d/g"}],"include_subdomains":true}' 
