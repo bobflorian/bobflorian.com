@@ -4,64 +4,43 @@ date: 2019-12-13T12:39:17-06:00
 draft: false
 ---
 
+
+<div id="caption2" style="display:none">
+    <h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>
+</div>
+
+
 <div class="demo-gallery">
 <div id="mypicts" class="list-styled" >
-    <a href="/img/day1/1.jpg">
-        <img class="img-responsive" src="/img/day1/thumbnail_1.jpg">
-        <div class="demo-gallery-poster">
-            <img src="/img/zoom.png">
-        </div>
-    </a>
-        
-     <a href="/img/day1/2.jpg">
-        <img class="img-responsive" src="/img/day1/thumbnail_2.jpg">
-        <div class="demo-gallery-poster">
-            <img src="/img/zoom.png">
-        </div>
-    </a>
 
-        <a href="/img/day1/3.jpg">
-        <img class="img-responsive" src="/img/day1/thumbnail_3.jpg">
-        <div class="demo-gallery-poster">
-            <img src="/img/zoom.png">
-        </div>
-    </a>
+<a href="https://static.bobflorian.com/thailand/0.jpg">
+    <img class="img-responsive" src="https://static.bobflorian.com/thailand/thumbnail_0.jpg">
+    <div class="demo-gallery-poster">
+        <img src="/img/zoom.png">
+    </div>
+</a>
 
-        <a href="/img/day1/4.jpg">
-        <img class="img-responsive" src="/img/day1/thumbnail_4.jpg">
-        <div class="demo-gallery-poster">
-            <img src="/img/zoom.png">
-        </div>
-    </a>
 
-        <a href="/img/day1/5.jpg">
-        <img class="img-responsive" src="/img/day1/thumbnail_5.jpg">
-        <div class="demo-gallery-poster">
-            <img src="/img/zoom.png">
-        </div>
-    </a>
-
-        <a href="/img/day1/6.jpg">
-        <img class="img-responsive" src="/img/day1/thumbnail_6.jpg">
-        <div class="demo-gallery-poster">
-            <img src="/img/zoom.png">
-        </div>
-    </a>
-
-    </a>       
 </div>
 </div>
+
 
 <script type="text/javascript">
-$('#mypicts').lightGallery(
-    {
-}
-);
 
-$('#mypicts').justifiedGallery({
+    var $commentBox = $('#mypicts');
+    
+    $commentBox.lightGallery({
+        download: false,
+    });
+
+    $('#mypicts').justifiedGallery({
     rowHeight : 100,
     lastRow : 'nojustify',
     margins : 20
-});
+    });
 
 </script>
+
+
+
+
