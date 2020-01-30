@@ -27,11 +27,9 @@ draft: false
 
 <script type="text/javascript">
 
-    var $commentBox = $('#mypicts');
-    
-    $commentBox.lightGallery({
-        download: false,
-    });
+    lightGallery(document.getElementById('mypicts'), {
+    thumbnail:true
+});
 
     $('#mypicts').justifiedGallery({
     rowHeight : 100,
