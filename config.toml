@@ -64,18 +64,3 @@ disqusShortname = "bobflorian"
     name = "Posts"
     url = "posts/"
     weight = 10
-
-  [[menu.main]]
-    name = "Food"
-    url = "food/"
-    weight = 20
-
-  [[menu.main]]
-    name = "Tech"
-    url = "tech/"
-    weight = 20
-
-    [[menu.main]]
-    name = "Travel"
-    url = "travel/"
-    weight = 20

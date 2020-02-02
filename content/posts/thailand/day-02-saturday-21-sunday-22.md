@@ -57,7 +57,8 @@ The view from our hotel is pretty nice though :)
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({

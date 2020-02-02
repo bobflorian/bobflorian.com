@@ -55,7 +55,8 @@ The airport is very nice, modern, and easy to navigate -- with all signs in Engl
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({

@@ -31,7 +31,8 @@ Flight at 745am from Doha to Chicago.  I think we ended up taking off about 830
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({

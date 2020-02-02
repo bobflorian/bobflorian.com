@@ -168,7 +168,8 @@ After dinner there was a bamboo bonfire, which we sat around for a bit; and then
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({

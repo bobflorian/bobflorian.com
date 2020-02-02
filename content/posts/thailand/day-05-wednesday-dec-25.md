@@ -582,7 +582,8 @@ Oh, by the way, it's Christmas! It's hard to tell here, since the days have star
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({

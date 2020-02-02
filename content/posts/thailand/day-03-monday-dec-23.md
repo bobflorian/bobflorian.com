@@ -213,7 +213,8 @@ Tomorrow morning we meet up with our REI travel guide to start our [adventure tr
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({

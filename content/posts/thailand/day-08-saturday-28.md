@@ -209,8 +209,7 @@ It's strange, there are signs on the road "watch for elephants" just like in the
 </div>
 
 <div class="demo-gallery">
-  <div id="mypicts" class="list-styled">
-  <a href="https://static.bobflorian.com/thailand/day8/6.jpg" data-sub-html="#9efd6c79dace1e1691f5b7951af1fa2c"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day8/thumbnail_6.jpg"><div class="demo-gallery-poster">
+  <div id="mypicts" class="list-styled"><a href="https://static.bobflorian.com/thailand/day8/6.jpg" data-sub-html="#9efd6c79dace1e1691f5b7951af1fa2c"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day8/thumbnail_6.jpg"><div class="demo-gallery-poster">
   <img src="/img/zoom.png">
 </div></a>
   <a href="https://static.bobflorian.com/thailand/day8/17.jpg" data-sub-html="#d024181dabab945b6201e1614251ff2c"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day8/thumbnail_17.jpg"><div class="demo-gallery-poster">
@@ -284,15 +283,15 @@ It's strange, there are signs on the road "watch for elephants" just like in the
 </div></a>
   <a href="https://static.bobflorian.com/thailand/day8/22.jpg" data-sub-html="#dd18563ad8f8450d207a9f1d80a5ad9a"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day8/thumbnail_22.jpg"><div class="demo-gallery-poster">
   <img src="/img/zoom.png">
-</div></a>
-</div>
+</div></a></div>
 </div>
 
 <script type="text/javascript">
 
     lightGallery(document.getElementById('mypicts'), {
     thumbnail:true,
-    download:false
+    download:false,
+    preload:6
 });
 
     $('#mypicts').justifiedGallery({
