@@ -12,17 +12,19 @@ tags:
 
 Bolingbrook - 2pm local time. All packed and ready to go! We've minimized what we're bringing with to just a small duffle bag and a backpack each. (for 2 weeks!)
 
-Car service was _supposed_ to pick us up at 2pm, but they were 15 minutes late. You'd think they try to be early or on-time as they know we're going to the airport. No one needs this kind of stress before an international flight.
+Car service was _supposed_ to pick us up at 2pm, but they were 15 minutes late. at 202pm I was calling them to see where they were. You'd think they try to be early or on-time as they know we're going to the airport. No one needs this kind of stress before an international flight.
 
-630pm Flight to Doha, Qatar
+Of course since we were early to the airport, we had to stop at Rick Bayless's restaurant Tortas in the airport.
+
+630pm Flight to Doha, Qatar --- here we go!
 
 9 hour layover in Doha, plan is to likely stay in the airport and some sleeping.
 
 We ate at an Italian place for dinner; greek salad and pizzas. My Greek salad wasn't so great, oh well.
 
-Wandered the airport multiple times and there were several mini parks for kids to play on. Aiden had fun climbing on the structures in the parks with kids from all over the world.
+Wandered the Doha airport multiple times and there were several mini parks for kids to play on. Aiden had fun climbing on the structures in the parks with kids from all over the world.
 
-The airport is very nice, modern, and easy to navigate -- with all signs in English and Arabic. Ended up doing about 18000 steps in the airport to keep busy. You can definitely feel the vibe as they are gearing up for the World Cup in 2022.
+The Doha airport is very nice, modern, and easy to navigate -- with all signs in English and Arabic. Ended up doing about 18000 steps in the airport to keep busy. You can definitely feel the vibe as they are gearing up for the World Cup in 2022.
 
 <div id="b097d66ad14bbb85aa9a0ed943c3fd5e" style="display:none">
   <h3>

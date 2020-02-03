@@ -14,7 +14,7 @@ tags:
 
 We woke up about 600 to the sounds of roosters in the neighborhood! Quickly got dressed and packed for the day of adventure.
 
-Met our guide, Waza, for breakfast. Was mostly traditional western style breakfast but I chose the Thai dishes of pork rice porridge soup which I added cilantro, basil, picked peppers, and pepper flakes. Super yummy, and not something I would have considered for breakfast.
+Met our guide, Waza, for breakfast. Was mostly traditional western style breakfast but I chose the Thai dishes of pork rice porridge soup which I added cilantro, basil, picked peppers, and pepper flakes. Super yummy, and not something I would have considered for breakfast; over the course of the entire trip I ate this several more times.
 
 After breakfast we hopped in the van for a 1 hour ride to the "camp" where we were to ride bikes and kayak. The camp was a very large facility where locals and school groups come. There was an olympic size pool too, but we were pretty much the only people here.
 
@@ -30,13 +30,13 @@ After paddling we finished up, and cleaned up for a short trip back in the van. 
 
 After finishing lunch we needed to drive to the Erawan National Park, where there are many many tiered waterfalls. We hiked up to "level 4" - which is all we had time before since the Rangers/Soldiers started to close levels off beginning at 330pm. The water was pretty cold, but I put my feet in, and Aiden went all in most places. There were many many lamprey fish, "doctor fish", who will eat the dead skin off your leg and feet. If you keep still they will come up and just start pecking at you, which was very very strange. We stayed at station 3 for about 20 minutes while Aiden swam with all of the other tourists. Then we hiked up 4, then 2, and back to one. Aiden swam at all of them. He tried to catch a fish, but it was very very hard. At the one station there were rock slides, where Aiden went down many many times, and lost his water shoe! Some local Thai boys tried to find it for him, but could not, as it was too deep and the water current was likely holding it at the bottom
 
-After the park, we stopped to get some iced coffee, where it seems that the coffee is stronger, and better here... not suer why, will need to find out.
+After the park, we stopped to get some iced coffee, where it seems that the coffee is stronger, and better here... not sure why, will need to find out...
 
 For our drive back our guide stopped off at another hotel resort she was friendly with, and they let us swim in the hot tub and pool; where we met some people from Nevada, and talked with another guide, who was leading 15 Germans though the country. The hot tub was very hot, and pool was cold, but it was very refreshing. There was a place where Aiden could feed some fish in the pond next to the pool, and did so several times with some other local kids and tourists.
 
 After this it was a short ride back to the camp where our driver got lost several times since it was very very dark out. (Event with using Google Maps!)
 
-We got dinner straight away, Aiden tried to roast some marshmallows that we picked up at a 7-11, but the bamboo fire was just too hot. One glass of wine later and it was time for bed. Wake up call is at 6am to pack, breakfast, and be on the road by 8am for an all day drive to Sukhothai - the ancient land of Thailand, and prior capital. Waza said she'll be stopping at many places for us to stretch, eat, and see some local markets.
+We got dinner at the buffet straight away, Aiden tried to roast some marshmallows that we picked up at a 7-11, but the bamboo fire was just too hot. One glass of wine later and it was time for bed. Wake up call is at 6am to pack, breakfast, and be on the road by 8am for an all day drive to Sukhothai - the ancient land of Thailand, and prior capital. Waza said she'll be stopping at many places for us to stretch, eat, and see some local markets.
 
 Oh, by the way, it's Christmas! It's hard to tell here, since the days have started to run together, and no locals here celebrate it, but that's OK!
 

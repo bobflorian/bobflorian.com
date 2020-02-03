@@ -11,9 +11,9 @@ tags:
 
 # First day of our official [REI Adventure Trip](https://www.rei.com/adventures/trips/asia/thailand-family-vacation.html)
 
-Since we were the only family to join this tour group with REI, they very nicely opted to pick us up at the hotel in Downtown Bangkok, instead of requiring us to trek all the way back to the airport (which was 45 minutes away). After our experience there a few days ago I really wouldn't have wanted to go back anyway!
+Since we were the only family to join this tour group with REI (yay for private tour and driver!), they very nicely opted to pick us up at the hotel in Downtown Bangkok, instead of requiring us to trek all the way back to the airport (which was 45 minutes away). After our experience there a few days ago I really wouldn't have wanted to go back anyway!
 
-Right at the agreed time our guide Waza was waiting for us in the hotel lobby with a smile. From there we had some quick introductions, met our driver, and embarked on a drive to Kanchanaburi.
+Right at the agreed time our guide *Waza* was waiting for us in the hotel lobby with a smile. From there we had some quick introductions, met our driver, and embarked on a drive to Kanchanaburi.
 
 First stop was a local restaurant for lunch, and fueled up for the last stretch of driving.
 
@@ -31,9 +31,9 @@ We're now on our way to Hellfire Pass Campground. The campground is at one of th
 
 We checked in, and found our "tent". All the tents are air conditioned and have their own bathrooms. Honestly the tent was nicer than we imagined, but still had some nuance of being in nature. The shower was pretty much connected to the outside, so there were ants in the shower all the time. But they stayed there as they likely just wanted water. To get into the main tent, and into the bathrooms you had to zip in / zip out of the Safari style tents. We never had any bugs, especially mosquitos, in the main tent that we saw.
 
-Aiden and I adventured to the natural spring pools, which were kind of on the bank of the river built into the hill. The pools were fed from a small waterfall/spring coming down the mountain. Kind of cold! There was a fig tree above the pool which kept dropping ant covered bombs into the pool, and Aiden made a game of it to throw them into the river. We found if we threw them into the right places in the river, some giant fish would come up and eat them! They weren't small fruit either, they were about the size of large plums! We played here until Chrissy came down with here blended coffee drink to check things out, and we started to get hungry.
+Aiden and I adventured to the natural spring pools, which were kind of on the bank of the river built into the hill. The pools were fed from a small waterfall/spring coming down the mountain. Kind of cold! There was a fig tree above the pool which kept dropping ant covered bombs into the pool, and Aiden made a game of it to throw them into the river. We found if we threw them into the right places in the river, some giant fish would come up and eat them! They weren't small fruit either, they were about the size of large plums! We played here until Chrissy came down with her blended coffee drink to check things out, and we started to get hungry.
 
-Day 1 of adventure here in the woods reminded us quickly why we brought bug spray. Holy mosquitos. If you weren't covered well in spray, then good luck to ya. You would be eaten up in minutes. Luckily we applied Citronella / Lemongrass spray every time before leaving the tent and fared really well. Over the course of the full trip I think I personally was only bitten twice.
+Day 1 of adventure here in the woods reminded us quickly why we brought bug spray. Holy mosquitos. If you weren't covered well in spray, then good luck to ya. You would be eaten up in minutes. Luckily we applied Citronella / Lemongrass spray every time before leaving the tent and fared really well.  Over the entire course of the trip I never felt the need to use the deet spray I brought just in case. Over the course of the full trip I think I personally was only bitten twice.
 
 Every night the camp does a open air buffet in their lighted campground dining room. Since it was Christmas Eve, all of the staff were wearing Santa Suits! lol. I think there was some kind of Christmas Music playing over the speakers. The food was a mix of Thai and American buffet, but I stayed mostly to the Thai food, as it was much better. And why would I come all the way to Thailand to eat things I can easily have at home!
 

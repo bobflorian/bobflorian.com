@@ -9,15 +9,15 @@ tags:
   - 2020
 ---
 
-Today is full day in Sukhothai.
+Today is a full day in Sukhothai.
 
 We woke up and ate breakfast at the buffet, which was as usual a mix of American and Thai food.
 
-We met our guide Waza at 830 behind the hotel near the entrance to the Wat Changlom, the temple of elephants. Here we did a quick tour of the temple with our new local guide for the day, who runs a biking tour company in the city. Apparently he runs the best in the city, and there's an article about him in the city somewhere, I will have to find. (post trip note... found his site [here](http://www.sukhothaibicycletour.com/aboutus.html))
+We met our guide Waza at 830 behind the hotel near the entrance to Wat Changlom, the temple of elephants. Here we did a quick tour of the temple with our new local guide for the day, who runs a biking tour company in the city. Apparently he runs the best in the city, and there's an article about him in the city somewhere, I will have to find. (post trip note... found his site [here](http://www.sukhothaibicycletour.com/aboutus.html))
 
 We rode for about 10 km through the temples, where he gave us much much history of the area, in very good detail for us, who didn't know anything about the area, culture, or philosophy of Buddhism.
 
-The Grand Temple was the best, where we walked around by ourselves for about 20 minutes taking a lot of pictures.
+The Grand Temple was the best, where we walked around by ourselves for about 30 minutes taking a lot of pictures.
 
 We rode through the local streets, and Jib (our guide) prides himself upon showing tourists the lesser seen, more local parts of the area, and not just the main template that people take pictures at. We stopped at one persons house where they breed, train, and sell fighting chickens. He explained how the chickens are kept for and what the locals do with them, but also explained how gambling is illegal now, and they could be fined for doing so, so chicken fighting is illegal, but locals still do it for a hobby.
 

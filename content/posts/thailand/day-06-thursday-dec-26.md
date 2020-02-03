@@ -24,9 +24,9 @@ For lunch we stopped at a local town Sam Chuey ?? (sp) and walked the local mark
 
 Then it was time for lunch, when we were already full! We didn't really want to eat at all, but Waza took us into a restaurant that seemed more upscale for the food market, since it had AC. We ate several kinds of noodle soups. Wide flat noodles with pork and veggies. Small flat yellow noodles with pork meat.... and pork blood cubes... which we didn't eat, but I recognized it from some other food videos I've watched.
 
-After lunch we walked the market some more, and then found the Van, for which we took a nap after lunch.
+After lunch we walked the market some more and then found the Van, for which we took a nap after lunch.
 
-During the drive there was some traffic, and people sell snacks to people sitting in traffic. So of course Waza bought some "traffic donuts" which were very very good; almost like Krispy Kremes. But the extra food did not sit well. Becoming aware of how much food we have been eating in an uncomfortable way.
+During the drive there was some traffic and people sell snacks to people sitting in traffic. So of course Waza bought some "traffic donuts" which were very very good; almost like Krispy Kremes. But the extra food did not sit well. Becoming aware of how much food we have been eating in an uncomfortable way.
 
 After a bit more driving we have arrived at our new hotel, in Sukhothai, Thailand. We are staying at Legendha Resort, which is next to some of the old ancient templates. The pool is very nice and Aiden went swimming while Chrissy and I got some drinks near the bar after smothering ourselves in mosquito spray. Aiden counted the lizards on the walls, maybe 15+ at one time.
 
