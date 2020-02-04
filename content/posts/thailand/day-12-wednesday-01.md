@@ -9,9 +9,19 @@ tags:
   - 2020
 ---
 
-Visited Karen Hill Tribe Village, bought coffee, took a hike to Watchirathan waterfall park in Doi Inthanon National Park.
+Today started off slower.   We woke up, ate breakfast and met Waza to set out for the Karen Hill Tribe Village where we took a hike through some forest and farmlands and bought coffee to bring home with us.  We tried some coffee they grew and roasted right from the property, it was tasty.  Even Aiden had a cup of coffee and liked it!  (and no, he usually doesn't get to drink coffee)
 
-Cooking class in Chiang Mai for dinner
+Later that day we drove to Doi Inthanon National Park where the famous Watchirathan waterfall is and took some pictures, hiked around for 30 minutes.  Waza was waiting for us at the restaurant by the shops, and she had already ordered food from the kitchen.  They brought it out as soon as we sat down.  Aiden and I ate the whole salt crusted fish. Not sure what Chrissy ate, probably some rice and chicken or pork.  After this we were pretty tired, as the days were building on us, so we went back to the hotel to rest for a bit.
+
+In the evening we had a cooking class appointment in Chiang Mai, so Waza and our driver dropped us off at the BaanThai Cookery School.  Chrissy didn't come as she was so sick of food, and feeling under the weather.  Aiden and I went in and waited for things to start and chatted with the other people from around the world that were in our class.  There were people from Chicago, Texas, California, The Netherlands, and Italy.  Aiden was the only kid in the class.
+
+We had to choose 4 things to make, and the instructor recommended that Aiden and I select the same things so that I can help him.  We chose Pad Thai, Fish Cakes, Coconut vegetable soup, and red paneeng curry pork.  From here we adventured to the market down the street in the back of a red truck Uber like service (Grab) to see what we'd be cooking with, different types of vegetables, spices, and how to select things from a market in Thailand.  We walked between several vendors browsing all of the vegetables all while the instructor/chef told us how each thing was important and how it worked well in each dish.  We had a little extra time in between here and going back so he told us to wander and enjoy the market for 20 minutes while he called a Grab to get back.
+
+Once back we washed up, and got to cooking!  First we made the Pad Thai.  Aiden pretty much made his own by verbal instruction from the Instructor alone! Everyone was amazed he was cooking just as well as they were, and the staff there was taking a lot of pictures of him stir frying away!  This wasn't his first rodeo though, he helps me cook nearly every time I'm cooking.
+
+After we chowed down on the delish Pad Thai, we made the coconut chicken soup and fried fish cakes.  The fry station chef offered to do Aiden's for him, but Aiden stepped right up and tossed his fish patties into the oil and watched them bubble to crispyness!  After all of the fish cakes were done frying, we sat down and ate the soup and fish.
+
+Next up was arguably the hardest, the paneeng pork curry.  Some people had chosen green curry, and some red.  Curry paste, when made from scratch, has a ton of ingredients that need to be chopped up very finely before put into a mortar and pestle to grind into a paste.  Aiden was one of two "smashers" in the large mortar and pestles they had.  The rest of us had been delegated to chopping for 15 minutes while passing down what we had chopped as finely as we could into either the Red or Green smashing zone.  After a bit Aiden got tired so someone else stepped into get it into a very fine paste.  From here we cooked up some pork for the curries, and then devoured these last plates up.  Everything was so tasty!  15/10 would recommend a cooking class in Chiang Mai!
 
 <div id="a14585b73068bb323c8eae2ad4aea7be0" style="display:none">
   <h3>

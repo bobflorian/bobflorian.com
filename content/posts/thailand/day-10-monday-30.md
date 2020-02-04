@@ -24,9 +24,9 @@ After dinner there was a local tribal show, showing the heritage of the people. 
 Sleep here was more comfortable than the home stay, but still cold at night; but it was OK. Beds in Thailand so far have all been so hard! I guess Americans are used to their plushy memory foam mattresses. My back was just now getting used to sleeping on something so hard.
 
 <div id="cdbf276ff42f607a7109803ee084cbd9" style="display:none">
-  <h3>
+  <h3>Sugar Cane!
 </h3>
-  <p>
+  <p>There was sugar cane growing randomly on the side of the road during a hike, and our guide whacked some off with a knife and gave it to Aiden and just said, here, eat this, hiking snack!
 </p>
 </div>
 
@@ -332,9 +332,9 @@ Sleep here was more comfortable than the home stay, but still cold at night; but
 </div>
 
 <div id="b2fbc839e6b32a399753a4ac6e38108d" style="display:none">
-  <h3>
+  <h3>Shots!
 </h3>
-  <p>
+  <p>Whatever type of liquor this is, I did a shot with our local hiking guide!  Not so tasty...
 </p>
 </div>
 
@@ -510,9 +510,6 @@ Sleep here was more comfortable than the home stay, but still cold at night; but
   <img src="/img/zoom.png">
 </div></a>
   <a href="https://static.bobflorian.com/thailand/day10/57.jpg" data-sub-html="#a27a986ae0def9264d95b317ca205b47d"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day10/thumbnail_57.jpg"><div class="demo-gallery-poster">
-  <img src="/img/zoom.png">
-</div></a>
-  <a href="https://static.bobflorian.com/thailand/day10/0.jpg" data-sub-html="#a4b836fb2e10c94e53ec3c89bb33d6433"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day10/thumbnail_0.jpg"><div class="demo-gallery-poster">
   <img src="/img/zoom.png">
 </div></a>
   <a href="https://static.bobflorian.com/thailand/day10/12.jpg" data-sub-html="#e2ab7559d781eccb2a2056cbf82f1274"><img class="img-responsive" src="https://static.bobflorian.com/thailand/day10/thumbnail_12.jpg"><div class="demo-gallery-poster">

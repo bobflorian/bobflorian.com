@@ -11,21 +11,23 @@ tags:
 
 Travel back to USA, part one.
 
-leave the hotel at 530am, go to the Chiang Mai airport, which is only 15 minutes from the RatiLanna hotel.
+We leave the hotel at 530am on the dot to the Chiang Mai airport, which is only 15 minutes from the RatiLanna hotel. The hotel knew we would be missing breakfast, so they so kindly gave us boxed breakfasts to go when I checked out!  What a nice gesture!  There was so much food in them too!  We didn't eat in the driver's car b/c _some_ of us can be messy eaters... and when we get to the airport we find that you can't even walk in the front door of the airport without going through security first!  We find a bench outside and eat at much as we can.  We didn't need to rush as there were not many people inside yet.  When we were done eating our boxed food couldn't fit in the trash can, and a police officer saw me struggling with the trash, so he said just leave it on the ground next to the can... um. ok.  As we're walking away I turned around and I see the officer picking up our half eaten boxes of food to take for himeself! lol.  whatever.
 
-Flight is at 8am, bach to Doha. On this flight we have an entire row on the plane to ourselves.
+Security is easy peasy here, and flight is at 8am, bach to Doha. On this flight we have an entire row on the plane to ourselves.
 
-After we arrive at Doha, about 1230 local time, we go to the Transit Tour Desk run by the government and Qatari Airlines. We sign up for a local city bus tour at 3pm.
+After we arrive at Doha, about 1230 local time, we go to the Transit Tour Desk run by the government and Qatar Airlines. We sign up for a local city bus tour at 3pm.
 
-Immigration --- again.
+To get to the bus, we have to officially enter Qatar, so that means immigration again.  And more waiting.  And the immigration officers here / police directing people which line to get into mean _business_ when they give an order.  Some people opted to duck under the maze of corrals they make you walk through, and the police were NOT having that.  Those people got sent to the back of the line!  Some people tried switching immigration lines after they were put in one, and big mistake if they saw you.  Back of the line.
 
-Bus tour in Doha to 4 best places to see.
+Once through immigration, about 30 minutes later the bus tour in Doha took us to the 4 best places to see in town.
 
-Souq Waqif - market - with the unique parade. SO many smells, sights, food, and animals to buy in the maze of a market. There's a Russian Circus in the parking lot!
+Souq Waqif was my favorite, a market with EVERYTHING! Check out my Instagram post from the day there with the video of the parade we saw.  They were filming something on this day too. SO many smells, sights, food, and animals to buy in the maze of a market. There's a Russian Circus in the parking lot!
 
-After back at the airport we ate at Burger King for dinner. First time I've been at a BK in probably 10 years.
+After back at the airport (and immigration again!) we ate at Burger King for dinner. First time I've been at a BK in probably 10 years, it was just OK.
 
-From here we were pretty tired and found a family quiet room to chill in. Luckily found 3 chairs next to each other. The lounge chairs only recline about 3/4 of the way, so sleeping on them in very hard for me. I think I sleep for maybe 3 or 4 hours.
+From here we were pretty tired and found a family quiet room to chill in. Luckily found 3 chairs next to each other, as it got quite crowded toward later in the night. The lounge chairs only recline about 3/4 of the way, so sleeping on them in very hard for me. I think I sleep for maybe 3 or 4 hours.
+
+Next flight is at 745am back to Chicago!
 
 <div id="a48adc94850ad21737ca96d8cd085f4f5" style="display:none">
   <h3>

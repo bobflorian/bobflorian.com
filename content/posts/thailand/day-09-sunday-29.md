@@ -12,7 +12,7 @@ tags:
 
 From Chiang Mai we ventured toward the mountain village of Mae Kampong, which is a hilly resort village of sorts where many many locals come to get away from the busy cities.
 
-On the way we stopped at a temple in Chiang Mai, Wat Suan Dok, where we learned much history, toured the grounds, and waited for our time to have a Monk Chat. While waiting for our time to listen, and talk with a local monk, we visited the enjoyed the main grounds of the temple. We partook in the custom of dropping coins in the 108 bowls, representing the 108 concerns of the Buddha.
+On the way we stopped at a temple in Chiang Mai, Wat Suan Dok, where we learned much history, toured the grounds, and waited for our time to have a Monk Chat. While waiting for our time to listen, and talk with a local monk, we visited then enjoyed the main grounds of the temple. We partook in the custom of dropping coins in the 108 bowls, representing the 108 concerns of the Buddha.
 
 Our time came to visit with a local monk, and we joined with a couple other small groups of tourists. One other family of 5 happened to be from Chicago! They were from Wrigleyville, and doing a similar trip as to us. The other two guys were from Canada. For the next 1.5 hours the monk gave us history, knowledge, and philosophy of Buddhism, which was very enlightening. The other groups had many questions about the philosophy, history, practices, rules, etiquette, and daily lives of the monks. It's a very different perspective on life that is very intriguing.
 
@@ -211,9 +211,9 @@ After dinner we just watched the rain from the balcony we had on our level of th
 </div>
 
 <div id="a283eb1f2c764c1371a2cdfeec8c880f9" style="display:none">
-  <h3>
+  <h3>Cinnamon!
 </h3>
-  <p>
+  <p>Our guide broke a piece off a random tree while on a hike and handed it to me, and ask me to guess what it was.  It was so fragrant it was easy!
 </p>
 </div>
 

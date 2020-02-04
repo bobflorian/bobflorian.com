@@ -28,6 +28,8 @@ After the elephant super adventure we had more time this afternoon.  Waza gave u
 
 Back to RatiLanna, for the new years party! It's much more crowded at the hotel now.
 
+The hotel had a massive party lined up for us to enjoy.  We had a table reservation time of about 8pm, and we wandered down to a big party.  There were no less than 15 different buffet stations. This was a complete 5 star buffet.  There was a sushi station, charcuterie station, pasta station, bbq station, fruit, dessert island... man, we couldn't have eaten better.  Plus an open bar, all night long.  There was a stage of performers all night long too. A mix of Thai, American-Thai, and general karaoke that kept us entertained all night long.  There were several video game stations that Aiden frequented all night long for treats or party favors.  Some of the party favors were mini fire-works for at midnight.  At midnight there was a champagne toast and people that had party poppers set them off.  I had several by now, and they ended up being a hot mess.  The popper exploded glitter everywhere.  I also ended up dumping the rest of the glitter over Chrissy's head which ended up being a mess alll over the hotel room for the coming days.
+
 <div id="25550f7c0a98cdabd9248ae6d1ef4192" style="display:none">
   <h3>
 </h3>

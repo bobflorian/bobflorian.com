@@ -56,9 +56,9 @@ There was an interpretive dance during dinner which was neat, but Aiden was fall
 </div>
 
 <div id="a2c6d945e6df0ca3bb91f8a65c9e0da44" style="display:none">
-  <h3>
+  <h3>Flowers laid at the temple by the Royal Princess a few days earlier.
 </h3>
-  <p>
+  <p>We heard that when the Royal Family comes to visit the temples they completely close the grounds to everyone, so we were lucky to get in and see this a few days later!
 </p>
 </div>
 
@@ -231,9 +231,9 @@ There was an interpretive dance during dinner which was neat, but Aiden was fall
 </div>
 
 <div id="f21521c934056d2f39951ad51b70aa81" style="display:none">
-  <h3>
+  <h3>The secret passageway
 </h3>
-  <p>
+  <p>The secret passageway to where the Speaking Buddha "spoke" to the people from.
 </p>
 </div>
 
