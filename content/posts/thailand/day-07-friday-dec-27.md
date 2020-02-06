@@ -19,13 +19,13 @@ We rode for about 10 km through the temples, where he gave us much much history 
 
 The Grand Temple was the best, where we walked around by ourselves for about 30 minutes taking a lot of pictures.
 
-We rode through the local streets, and Jib (our guide) prides himself upon showing tourists the lesser seen, more local parts of the area, and not just the main template that people take pictures at. We stopped at one persons house where they breed, train, and sell fighting chickens. He explained how the chickens are kept for and what the locals do with them, but also explained how gambling is illegal now, and they could be fined for doing so, so chicken fighting is illegal, but locals still do it for a hobby.
+We rode through the local streets, and Jib (our guide) prides himself upon showing tourists the lesser seen, more local parts of the area, and not just the main temples  that people take pictures at. We stopped at one persons house where they breed, train, and sell fighting chickens. He explained how the chickens are kept for and what the locals do with them, but also explained how gambling is illegal now, and they could be fined for doing so, so chicken fighting is illegal, but locals still do it for a hobby.
 
-We stopped at a new local archeological dig site where they were trying to excavate newly found pottery ovens and "factories" found around the temples. We saw some samples of what had been found.
+We stopped at a new-ish local archeological dig site where they were trying to excavate newly found pottery ovens and "factories" found around the temples. We saw some samples of what had been found.
 
 There was a short stop at a Hindu temple with bat cave, and maybe dead, lizard on the ground.
 
-Lunch was skipped because we were so full from so much eating the day before, but before we left our biking guide, he gave us some local snacks from a local family. The fried rice flour cakes with peanuts were very very good, I had 3, and Aiden ate maybe 10 mini bananas!
+Lunch was skipped because we were so full from so much eating the day before, but before we left our biking guide, he gave us some local snacks from a local family. The fried rice flour cakes with peanuts were very very good, I had 3, and Aiden ate maybe 10 mini bananas!  So far, fruit in Thailand is _much_ better than what we can find in the US, but I'm sure I'll try to find something good enough back home.
 
 After that we tried to go back to our room, but the maid was cleaning the room, so we laid around the grounds in the library, and next to the pool for about an hour. After that we went into the pool, which was surprisingly cold, even thought it was 87 degrees outside. At some point Waza joined us and we chatted more about local culture and food. We shared stories from the US and about Aiden, along with some pictures.
 

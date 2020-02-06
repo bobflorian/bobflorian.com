@@ -32,7 +32,7 @@ After a bit more driving we have arrived at our new hotel, in Sukhothai, Thailan
 
 After swimming we got ready for DINNER. MORE FOOD. CANNOT TAKE IT ANYMORE. They brought out no less than 5 dishes, rice, and soup. I literally took one bite of each thing, and felt so bad because it was very very good food. Tomorrow I'm not eating anything.
 
-There was an interpretive dance during dinner which was neat, but Aiden was falling asleep during dinner, so we left, and said goodnight to Waza ,and will meet her for BREAKFAST in the morning. Which I will likely not eat, since I'm so full.
+There was an interpretive dance during dinner which was neat, but Aiden was falling asleep during dinner, so we left, and said goodnight to Waza, and will meet her for BREAKFAST in the morning. Which I will likely not eat, since I'm so full.
 
 <div id="a714f250e970a5cf6edb2269188b13783" style="display:none">
   <h3>

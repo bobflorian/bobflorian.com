@@ -16,6 +16,8 @@ tags:
 
 Hey ya'll.  This is a long story. Much longer than could possibly be posted well on social media.
 
+This is our story of our trip to Thailand with REI.
+
 I'm a strong believer in that travel is transformational on many levels.  [https://www.businessinsider.com/transformational-travel-experiential-luxury-safari-trends-2019-8]
 <blockquote>Haupert told Forbes that ultimately, transformational travel means people should carry what they've learned on their travels home with them.
 

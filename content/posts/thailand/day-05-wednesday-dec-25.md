@@ -34,7 +34,7 @@ After the park, we stopped to get some iced coffee, where it seems that the coff
 
 For our drive back our guide stopped off at another hotel resort she was friendly with, and they let us swim in the hot tub and pool; where we met some people from Nevada, and talked with another guide, who was leading 15 Germans though the country. The hot tub was very hot, and pool was cold, but it was very refreshing. There was a place where Aiden could feed some fish in the pond next to the pool, and did so several times with some other local kids and tourists.
 
-After this it was a short ride back to the camp where our driver got lost several times since it was very very dark out. (Event with using Google Maps!)
+After this it was a short ride back to the camp where our driver got lost several times since it was very very dark out. (Even with using Google Maps!)
 
 We got dinner at the buffet straight away, Aiden tried to roast some marshmallows that we picked up at a 7-11, but the bamboo fire was just too hot. One glass of wine later and it was time for bed. Wake up call is at 6am to pack, breakfast, and be on the road by 8am for an all day drive to Sukhothai - the ancient land of Thailand, and prior capital. Waza said she'll be stopping at many places for us to stretch, eat, and see some local markets.
 
