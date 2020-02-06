@@ -64,3 +64,8 @@ disqusShortname = "bobflorian"
     name = "Posts"
     url = "posts/"
     weight = 10
+
+  [[menu.main]]
+    name = "Thailand"
+    url = "posts/thailand"
+    weight = 20
