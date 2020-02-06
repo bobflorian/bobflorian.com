@@ -2,6 +2,7 @@
 title: "Florian Thailand Adventure" 
 date: 2019-12-20T00:00:00-06:00 
 draft: false 
+toc: true
 tags: 
   - travel 
   - vacation 
