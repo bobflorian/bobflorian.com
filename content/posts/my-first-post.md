@@ -14,7 +14,5 @@ This site is built from the following tech:
     
 * [Hugo](https://gohugo.io/) Static site generator
 * Theme by [Hermit](https://themes.gohugo.io/hermit/)
-* [Fathom Analytics](https://usefathom.com/)
-* [Disqus](https://disqus.com/) commenting
 * [AWS Amplify](https://aws.amazon.com/amplify/) hosting
 * [AWS Route53](https://aws.amazon.com/route53/) for DNS

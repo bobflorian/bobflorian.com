@@ -66,6 +66,17 @@ disqusShortname = "bobflorian"
     weight = 10
 
   [[menu.main]]
-    name = "Thailand"
+    name = "Thailand 2020"
     url = "posts/thailand"
+    weight = 20
+
+
+  [[menu.main]]
+    name = "Caribbean 2023"
+    url = "posts/caribbean-2023"
+    weight = 20
+
+  [[menu.main]]
+    name = "Colorado & Utah 2023"
+    url = "posts/colo-utah-2023"
     weight = 20
